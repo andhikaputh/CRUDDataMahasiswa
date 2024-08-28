@@ -1,0 +1,13 @@
+C:\Users\ANDHIKA\source\repos\Mission3\Mission3\bin\Debug\Mission3.exe.config
+C:\Users\ANDHIKA\source\repos\Mission3\Mission3\bin\Debug\Mission3.exe
+C:\Users\ANDHIKA\source\repos\Mission3\Mission3\bin\Debug\Mission3.pdb
+C:\Users\ANDHIKA\source\repos\Mission3\Mission3\obj\Debug\Mission3.csproj.AssemblyReference.cache
+C:\Users\ANDHIKA\source\repos\Mission3\Mission3\obj\Debug\Mission3.Form1.resources
+C:\Users\ANDHIKA\source\repos\Mission3\Mission3\obj\Debug\Mission3.InputDataMahasiswa.resources
+C:\Users\ANDHIKA\source\repos\Mission3\Mission3\obj\Debug\Mission3.OutputDataMahasiswa.resources
+C:\Users\ANDHIKA\source\repos\Mission3\Mission3\obj\Debug\Mission3.Properties.Resources.resources
+C:\Users\ANDHIKA\source\repos\Mission3\Mission3\obj\Debug\Mission3.csproj.GenerateResource.cache
+C:\Users\ANDHIKA\source\repos\Mission3\Mission3\obj\Debug\Mission3.csproj.CoreCompileInputs.cache
+C:\Users\ANDHIKA\source\repos\Mission3\Mission3\obj\Debug\Mission3.exe
+C:\Users\ANDHIKA\source\repos\Mission3\Mission3\obj\Debug\Mission3.pdb
+C:\Users\ANDHIKA\source\repos\Mission3\Mission3\obj\Debug\Mission3.SearchMahasiswa.resources
